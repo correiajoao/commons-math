@@ -209,9 +209,9 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
             fail("Expecting exception: NullPointerException");
 
         } catch (NullPointerException e) {
-//
-// no message in exception (getMessage() returned null)
-//
+            //
+            // no message in exception (getMessage() returned null)
+            //
             verifyException("org.apache.commons.math4.util.ResizableDoubleArray", e);
         }
     }
@@ -239,9 +239,9 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
             fail("Expecting exception: ArrayIndexOutOfBoundsException");
 
         } catch (ArrayIndexOutOfBoundsException e) {
-//
-// 6
-//
+            //
+            // 6
+            //
             verifyException("org.apache.commons.math4.util.ResizableDoubleArray", e);
         }
     }
@@ -515,17 +515,17 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
             verifyException("org.apache.commons.math4.util.ResizableDoubleArray", e);
         }
     }
-/*
-* Informações do teste
-*
-* Plausível: não
-*     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o método
-*      RuntimeException() lança uma RuntimeException. A documentação aponta que uma MathIllegalStateException será lançada.
-*
-* Compreensivel: sim
-*     - O comportamento do teste e suas instruções são compreesíveis.
-*/
 
+    /*
+    * Informações do teste
+    *
+    * Plausível: não
+    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o método
+    *      RuntimeException() lança uma RuntimeException. A documentação aponta que uma MathIllegalStateException será lançada.
+    *
+    * Compreensivel: sim
+    *     - O comportamento do teste e suas instruções são compreesíveis.
+    */
     @Test(timeout = 4000)
     public void test52() throws Throwable {
         ResizableDoubleArray resizableDoubleArray0 = new ResizableDoubleArray((double[]) null);
@@ -541,7 +541,16 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
         }
     }
 
-
+    /*
+    * Informações do teste
+    *
+    * Plausível: não
+    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o método
+    *      discardFrontElements() lança uma RuntimeException. A documentação aponta que uma MathIllegalStateException será lançada.
+    *
+    * Compreensivel: sim
+    *     - O comportamento do teste e suas instruções são compreesíveis.
+    */
     @Test(timeout = 4000)
     public void test58() throws Throwable {
         ResizableDoubleArray resizableDoubleArray0 = new ResizableDoubleArray(1590);
