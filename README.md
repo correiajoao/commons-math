@@ -40,6 +40,15 @@
  |                                                                      |
  +======================================================================+
 --->
+
+Testes gerados pela ferramenta EvoSuite
+===================
+* [ComplexFormat_ESTest.java](https://github.com/correiajoao/commons-math/blob/master/src/evo/org/apache/commons/math4/complex/ComplexFormat_ESTest.java)
+* [SumOfSquares_ESTest.java](https://github.com/correiajoao/commons-math/blob/master/src/evo/org/apache/commons/math4/stat/descriptive/summary/SumOfSquares_ESTest.java)
+* [BinomialTest_ESTest.java](https://github.com/correiajoao/commons-math/blob/master/src/evo/org/apache/commons/math4/stat/inference/BinomialTest_ESTest.java)
+* [Pair_ESTest.java](https://github.com/correiajoao/commons-math/blob/master/src/evo/org/apache/commons/math4/util/Pair_ESTest.java)
+* [ResizableDoubleArray_ESTest.java](https://github.com/correiajoao/commons-math/blob/master/src/evo/org/apache/commons/math4/util/ResizableDoubleArray_ESTest.java)
+
 Apache Commons Math
 ===================
 
