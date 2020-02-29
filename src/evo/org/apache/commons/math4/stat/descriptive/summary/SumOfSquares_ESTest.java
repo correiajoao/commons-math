@@ -22,7 +22,7 @@ public class SumOfSquares_ESTest extends SumOfSquares_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se a função
     *     increment() e a getResult() resultam em valor igual ao esperado.
     *
     * Compreensivel: sim
@@ -40,7 +40,7 @@ public class SumOfSquares_ESTest extends SumOfSquares_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se a função
+    *     - O teste verifica dos seguintesois comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se a função
     *     increment() e a getN() resultam em valor igual ao esperado.
     *
     * Compreensivel: sim
@@ -58,7 +58,7 @@ public class SumOfSquares_ESTest extends SumOfSquares_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se a função
     *     increment() e a getN() resultam em valor igual ao esperado.
     *
     * Compreensivel: sim
@@ -79,7 +79,7 @@ public class SumOfSquares_ESTest extends SumOfSquares_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se a função
     *     lança uma NullPointerException. A documentação especifica que para erros nos valores passados uma
     *     MathIllegalArgumentException será lançada.
     *
@@ -106,7 +106,7 @@ public class SumOfSquares_ESTest extends SumOfSquares_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se a função
     *     lança uma RuntimeException. A documentação especifica que para erros nos valores passados uma
     *     MathIllegalArgumentException será lançada.
     *
@@ -133,7 +133,7 @@ public class SumOfSquares_ESTest extends SumOfSquares_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se a função
     *     lança uma RuntimeException. A documentação especifica que para erros nos valores passados uma
     *     MathIllegalArgumentException será lançada.
     *
@@ -160,7 +160,7 @@ public class SumOfSquares_ESTest extends SumOfSquares_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se os valores
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se os valores
     *     do Objeto são os esperados.
     *
     * Compreensivel: sim
@@ -181,7 +181,7 @@ public class SumOfSquares_ESTest extends SumOfSquares_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se mesmo com
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se mesmo com
     *     a chamada da função copy() os valores do Objeto são os esperados.
     *
     * Compreensivel: sim
@@ -199,7 +199,7 @@ public class SumOfSquares_ESTest extends SumOfSquares_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se a função
     *     evaluate() produz os resultados esperados.
     *
     * Compreensivel: sim

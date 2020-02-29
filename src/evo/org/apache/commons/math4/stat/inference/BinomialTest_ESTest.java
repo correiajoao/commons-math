@@ -23,7 +23,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O único comportamento verificado é se o teste pode ser executado no tempo de 4s. O que não se demonstra plausível
+    *     - O único comportamento verificado é se o teste pode ser executado no tempo de 4s, o que não se demonstra plausível
     *     para um teste que instancia as classes e chama o um método.
     *
     * Compreensivel: sim
@@ -40,7 +40,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O único comportamento verificado é se o teste pode ser executado no tempo de 4s. O que não se demonstra plausível
+    *     - O único comportamento verificado é se o teste pode ser executado no tempo de 4s, o que não se demonstra plausível
     *     para um teste que instancia as classes e chama o um método.
     *
     * Compreensivel: sim
@@ -57,7 +57,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     binomialTest() chamada com argumentos ilegais lança uma RuntimeException. A documentação especifica que para erros
     *     nos valores passados uma NotPositiveException, OutOfRangeException ou MathIllegalArgumentException será lançada.
     *
@@ -85,7 +85,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *      O único comportamento verificado é se o teste pode ser executado no tempo de 4s. O que não se demonstra plausível
+    *      O único comportamento verificado é se o teste pode ser executado no tempo de 4s, o que não se demonstra plausível
     *     para um teste que instancia as classes e chama o um método.
     *
     * Compreensivel: sim
@@ -102,7 +102,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *      O único comportamento verificado é se o teste pode ser executado no tempo de 4s. O que não se demonstra plausível
+    *      O único comportamento verificado é se o teste pode ser executado no tempo de 4s, o que não se demonstra plausível
     *     para um teste que instancia as classes e chama o um método.
     *
     * Compreensivel: sim
@@ -119,7 +119,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *      O único comportamento verificado é se o teste pode ser executado no tempo de 4s. O que não se demonstra plausível
+    *      O único comportamento verificado é se o teste pode ser executado no tempo de 4s, o que não se demonstra plausível
     *     para um teste que instancia as classes e chama o um método.
     *
     * Compreensivel: sim
@@ -137,7 +137,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *      O único comportamento verificado é se o teste pode ser executado no tempo de 4s. O que não se demonstra plausível
+    *      O único comportamento verificado é se o teste pode ser executado no tempo de 4s, o que não se demonstra plausível
     *     para um teste que instancia as classes e chama o um método.
     *
     * Compreensivel: sim
@@ -155,7 +155,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o resultado
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o resultado
     *     produzido pelo teste binomial é igual ao esperado.
     *
     * Compreensivel: sim
@@ -190,7 +190,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o resultado
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o resultado
     *     produzido pelo teste binomial é igual ao esperado.
     *
     * Compreensivel: sim
@@ -208,7 +208,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o resultado
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o resultado
     *     produzido pelo teste binomial é igual ao esperado.
     *
     * Compreensivel: sim
@@ -225,7 +225,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     binomialTest() chamada com argumentos ilegais lança uma NullPointerException. A documentação especifica que para erros
     *     nos valores passados uma NotPositiveException, OutOfRangeException ou MathIllegalArgumentException será lançada.
     *
@@ -251,7 +251,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     binomialTest() chamada com argumentos ilegais lança uma RuntimeException. A documentação especifica que para erros
     *     nos valores passados uma NotPositiveException, OutOfRangeException ou MathIllegalArgumentException será lançada.
     *
@@ -279,7 +279,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     binomialTest() chamada com argumentos ilegais lança uma RuntimeException. A documentação especifica que para erros
     *     nos valores passados uma NotPositiveException, OutOfRangeException ou MathIllegalArgumentException será lançada.
     *
@@ -307,7 +307,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     binomialTest() chamada com argumentos ilegais lança uma RuntimeException. A documentação especifica que para erros
     *     nos valores passados uma NotPositiveException, OutOfRangeException ou MathIllegalArgumentException será lançada.
     *
@@ -335,7 +335,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o resultado
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o resultado
     *     produzido pelo teste binomial é igual ao esperado.
     *
     * Compreensivel: sim
@@ -353,7 +353,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     binomialTest() chamada com argumentos ilegais lança uma RuntimeException. A documentação especifica que para erros
     *     nos valores passados uma NotPositiveException, OutOfRangeException ou MathIllegalArgumentException será lançada.
     *
@@ -380,7 +380,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     binomialTest() chamada com argumentos ilegais lança uma RuntimeException. A documentação especifica que para erros
     *     nos valores passados uma NotPositiveException, OutOfRangeException ou MathIllegalArgumentException será lançada.
     *
@@ -408,7 +408,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     binomialTest() chamada com argumentos ilegais lança uma RuntimeException. A documentação especifica que para erros
     *     nos valores passados uma NotPositiveException, OutOfRangeException ou MathIllegalArgumentException será lançada.
     *
@@ -436,7 +436,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     binomialTest() chamada com argumentos ilegais lança uma RuntimeException. A documentação especifica que para erros
     *     nos valores passados uma NotPositiveException, OutOfRangeException ou MathIllegalArgumentException será lançada.
     *
@@ -464,7 +464,7 @@ public class BinomialTest_ESTest extends BinomialTest_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     binomialTest() chamada com argumentos ilegais lança uma RuntimeException. A documentação especifica que para erros
     *     nos valores passados uma NotPositiveException, OutOfRangeException ou MathIllegalArgumentException será lançada.
     *

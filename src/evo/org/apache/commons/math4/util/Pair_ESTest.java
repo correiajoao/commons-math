@@ -22,7 +22,7 @@ public class Pair_ESTest extends Pair_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O único comportamento verificado no teste é se ele pode ser executado no tempo de 4s. O que não se demonstra
+    *     - O único comportamento verificado no teste é se ele pode ser executado no tempo de 4s, o que não se demonstra
     *     plausível para um teste que cria instâncias de objetos e calcula hashCode destes.
     *
     * Compreensivel: sim
@@ -41,7 +41,7 @@ public class Pair_ESTest extends Pair_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se um
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se um
     *     valor null inserido em um Pair pode ser recuperado através da função getValue().
     *
     * Compreensivel: sim
@@ -58,7 +58,7 @@ public class Pair_ESTest extends Pair_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida se um
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida se um
     *     valor null inserido em um Pair pode ser recuperado através da função getSecond().
     *
     * Compreensivel: sim
@@ -75,7 +75,7 @@ public class Pair_ESTest extends Pair_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se uma
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se uma
     *     chave null inserida em um Pair pode ser recuperado através da função getKey().
     *
     * Compreensivel: sim
@@ -92,7 +92,7 @@ public class Pair_ESTest extends Pair_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se uma
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se uma
     *     chave null inserida em um Pair pode ser recuperada através da função getFirst().
     *
     * Compreensivel: sim
@@ -109,7 +109,7 @@ public class Pair_ESTest extends Pair_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se um
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se um
     *     Pair inicializado com valor null lança uma exception.
     *
     * Compreensivel: sim
@@ -135,7 +135,7 @@ public class Pair_ESTest extends Pair_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se uma chave
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s. Em seguida, se uma chave
     *     inserida em um Pair pode ser recuperada através da função getKey().
     *
     * Compreensivel: sim
@@ -152,7 +152,7 @@ public class Pair_ESTest extends Pair_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se um
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se um
     *     valor inserido em um Pair pode ser recuperado através da função getValue().
     *
     * Compreensivel: sim
@@ -170,7 +170,7 @@ public class Pair_ESTest extends Pair_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O único comportamento verificado no teste é se ele pode ser executado no tempo de 4s. O que não se demonstra
+    *     - O único comportamento verificado no teste é se ele pode ser executado no tempo de 4s, o que não se demonstra
     *     plausível para um teste que cria instâncias de objetos e calcula hashCode destes.
     *
     * Compreensivel: sim
@@ -186,7 +186,7 @@ public class Pair_ESTest extends Pair_ESTest_scaffolding {
      * Informações do teste
      *
      * Plausível: sim
-     *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se Pairs
+     *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se Pairs
      *     compostos por outros Pairs quando duplicados, são iguais.
      *
      * Compreensivel: sim
@@ -208,7 +208,7 @@ public class Pair_ESTest extends Pair_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se Pairs
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se Pairs
     *     distintos mas com o mesmo valor, são desiguais.
     *
     * Compreensivel: sim
@@ -227,7 +227,7 @@ public class Pair_ESTest extends Pair_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se um Pair
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se um Pair
     *     composto por outro Pair como valor, são desiguais.
     *
     * Compreensivel: sim
@@ -247,7 +247,7 @@ public class Pair_ESTest extends Pair_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se dois
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se dois
     *     dois Pairs compostos de valores null, são iguais. O teste utiliza estratégias muito elaborados para
     *     realizar a atividade.
     *
@@ -266,7 +266,7 @@ public class Pair_ESTest extends Pair_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se dois
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se dois
     *     dois Pairs compostos por outros Pairs são desiguais. O teste utiliza estratégias muito elaborados para
     *     realizar a atividade.
     *
@@ -286,7 +286,7 @@ public class Pair_ESTest extends Pair_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
     *     chave e valor inseridos em um Pair são iguais ao conteúdo do seu toString.
     *
     * Compreensivel: sim
@@ -304,7 +304,7 @@ public class Pair_ESTest extends Pair_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a
     *     chave inserida em um Pair e a recuperada são iguais.
     *
     * Compreensivel: sim

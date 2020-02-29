@@ -28,7 +28,7 @@ public class ComplexFormat_ESTest extends ComplexFormat_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
     *     o erro de conversão de um Valor real para Complexo gera o index e a mensagem de erro esperada.
     *
     * Compreensivel: sim
@@ -48,7 +48,7 @@ public class ComplexFormat_ESTest extends ComplexFormat_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
     *     a conversão de uma expressão gera o resultado e o caracter imaginário esperado.
     *
     * Compreensivel: sim
@@ -84,7 +84,7 @@ public class ComplexFormat_ESTest extends ComplexFormat_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o
     *     caractere imaginário é o esperado.
     *
     * Compreensivel: sim
@@ -102,7 +102,7 @@ public class ComplexFormat_ESTest extends ComplexFormat_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o
     *     caractere imaginário é o esperado.
     *
     * Compreensivel: sim
@@ -120,7 +120,7 @@ public class ComplexFormat_ESTest extends ComplexFormat_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     parse() chamada com argumentos ilegais lança uma StringIndexOutOfBoundsException. A documentação especifica que para erros
     *     nos valores passados uma MathParseException será lançada.
     *
@@ -145,7 +145,7 @@ public class ComplexFormat_ESTest extends ComplexFormat_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     parse() chamada com argumentos ilegais lança uma NullPointerException. A documentação especifica que para erros
     *     nos valores passados uma MathParseException será lançada.
     *
@@ -174,7 +174,7 @@ public class ComplexFormat_ESTest extends ComplexFormat_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     parse() chamada com argumentos ilegais lança uma NullPointerException. A documentação especifica que para erros
     *     nos valores passados uma MathParseException será lançada.
     *
@@ -201,7 +201,7 @@ public class ComplexFormat_ESTest extends ComplexFormat_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     getInstance() chamada com argumentos ilegais lança uma NullPointerException.
     *
     * Compreensivel: sim
@@ -225,7 +225,7 @@ public class ComplexFormat_ESTest extends ComplexFormat_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica dos seguintesois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     format() chamada com argumentos ilegais lança uma NullPointerException. A documentação especifica que para erros
     *     nos valores passados uma MathParseException será lançada.
     *
@@ -255,7 +255,7 @@ public class ComplexFormat_ESTest extends ComplexFormat_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     format() chamada com argumentos ilegais lança uma NullPointerException. A documentação especifica que para erros
     *     nos valores passados uma MathParseException será lançada.
     *
@@ -286,7 +286,7 @@ public class ComplexFormat_ESTest extends ComplexFormat_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     format() chamada com argumentos ilegais lança uma NullPointerException. A documentação especifica que para erros
     *     nos valores passados uma MathParseException será lançada.
     *
@@ -314,7 +314,7 @@ public class ComplexFormat_ESTest extends ComplexFormat_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a função
     *     format() chamada com argumentos ilegais lança uma NullPointerException. A documentação especifica que para erros
     *     nos valores passados uma MathParseException será lançada.
     *
@@ -343,7 +343,7 @@ public class ComplexFormat_ESTest extends ComplexFormat_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o construtor
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o construtor
     *     ComplexFormat() chamada com argumentos ilegais lança uma NullPointerException. A documentação diz que nesses casos uma
      *    NullArgumentException  será lançada.
     *
@@ -369,7 +369,7 @@ public class ComplexFormat_ESTest extends ComplexFormat_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o construtor
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o construtor
     *     ComplexFormat() com String vazia lança uma RuntimeException. A documentação diz que nesses casos uma NoDataException será
     *     lançada.
     *
@@ -395,7 +395,7 @@ public class ComplexFormat_ESTest extends ComplexFormat_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o construtor
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o construtor
     *     ComplexFormat() com String vazia lança uma RuntimeException. A documentação diz que nesses casos uma NoDataException será
     *     lançada.
     *
@@ -416,7 +416,7 @@ public class ComplexFormat_ESTest extends ComplexFormat_ESTest_scaffolding {
    * Informações do teste
    *
    * Plausível: sim
-   *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
+   *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
    *     a conversão de um valor gera o resultado e o caracter imaginário esperado.
    *
    * Compreensivel: sim
@@ -435,7 +435,7 @@ public class ComplexFormat_ESTest extends ComplexFormat_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
     *     a conversão de uma expressão gera o resultado esperado.
     *
     * Compreensivel: sim

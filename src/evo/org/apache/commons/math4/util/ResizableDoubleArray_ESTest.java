@@ -25,7 +25,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se a
     *     comparação de dois Arrays é desigual e os valores do Array são os esperados.
     * Compreensivel: sim
     *     - O comportamento do teste e suas instruções são compreesíveis.
@@ -46,7 +46,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se os
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se os
     *     valores de um Array após a sua expansão são os esperados.
     * Compreensivel: sim
     *     - O comportamento do teste e suas instruções são compreesíveis.
@@ -65,7 +65,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se os
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se os
     *     valores de um Array são os esperados.
     * Compreensivel: sim
     *     - O comportamento do teste e suas instruções são compreesíveis.
@@ -81,7 +81,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o método
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o método
     *      getElement() lança uma ArrayIndexOutOfBoundsException.
     *
     * Compreensivel: sim
@@ -109,7 +109,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o método
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o método
     *      checkContractExpand() lança uma ArrayIndexOutOfBoundsException. A documentação aponta que para valores <= 1 será lançada
     *      uma NumberIsTooSmallException.
     *
@@ -175,7 +175,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
     *     os valores do Array são os esperados.
     *
     * Compreensivel: sim
@@ -194,7 +194,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
     *     o método compute() com parametros ilegais lança uma NullPointerException.
     *
     * Compreensivel: sim
@@ -220,7 +220,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
     *     o método addElementRolling() com parametros ilegais lança uma ArrayIndexOutOfBoundsException.
     *
     * Compreensivel: sim
@@ -250,7 +250,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
     *     o método ResizableDoubleArray() com parametros ilegais lança uma RuntimeException.
     *
     * Compreensivel: sim
@@ -275,7 +275,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
     *     o método ResizableDoubleArray() com parametros ilegais lança uma RuntimeException.
     *
     * Compreensivel: sim
@@ -317,7 +317,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
     *     o método setElement() com parametros ilegais lança uma ArrayIndexOutOfBoundsException.
     *
     * Compreensivel: sim
@@ -344,7 +344,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
     *     o método getElement() com parametros ilegais lança uma ArrayIndexOutOfBoundsException.
     *
     * Compreensivel: sim
@@ -370,7 +370,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
     *     os valores do Array são iguais aos esperados.
     *
     * Compreensivel: sim
@@ -391,7 +391,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: sim
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
     *     os valores do Array são iguais aos esperados.
     *
     * Compreensivel: sim
@@ -426,7 +426,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o método
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o método
     *      ResizableDoubleArray() lança uma RuntimeException.
     *
     * Compreensivel: sim
@@ -453,7 +453,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, os
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, os
     *     valores do Array são iguais aos esperados.
     *
     * Compreensivel: sim
@@ -475,7 +475,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, os
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, os
     *     valores do Array são iguais aos esperados.
     *
     * Compreensivel: sim
@@ -494,7 +494,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o método
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o método
     *      setNumElements() lança uma RuntimeException. A documentação aponta que uma ArrayIndexOutOfBoundsException será lançada.
     *
     * Compreensivel: sim
@@ -520,7 +520,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o método
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o método
     *      RuntimeException() lança uma RuntimeException. A documentação aponta que uma MathIllegalStateException será lançada.
     *
     * Compreensivel: sim
@@ -545,7 +545,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o método
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se o método
     *      discardFrontElements() lança uma RuntimeException. A documentação aponta que uma MathIllegalStateException será lançada.
     *
     * Compreensivel: sim
@@ -570,7 +570,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, os
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, os
     *     valores do Array são iguais aos esperados.
     *
     * Compreensivel: sim
@@ -590,7 +590,7 @@ public class ResizableDoubleArray_ESTest extends ResizableDoubleArray_ESTest_sca
     * Informações do teste
     *
     * Plausível: não
-    *     - O teste verifica dois comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, os
+    *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, os
     *     valores do Array são iguais aos esperados.
     *
     * Compreensivel: sim
